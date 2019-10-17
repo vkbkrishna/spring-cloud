@@ -11,7 +11,7 @@ public class CountriesServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		
+		System.out.println("Context loaded");
 	}
 
 }
